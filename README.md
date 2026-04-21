@@ -138,7 +138,7 @@ It highlights the importance of accurate demand forecasting, reliable supplier p
 ## Project Structure
 
 ```
-/marketing-attribution-roi-optimization
+/Supply Chain Analytics & Inventory Optimization
 │
 ├── README.md
 ├── /data
