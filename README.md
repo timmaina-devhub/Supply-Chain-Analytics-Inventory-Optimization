@@ -146,9 +146,7 @@ It highlights the importance of accurate demand forecasting, reliable supplier p
 └── /dashboard
 ```
 
-## Future Work
 
-* Budget optimization simulator
 
 ---
 ## Dashboard Preview
