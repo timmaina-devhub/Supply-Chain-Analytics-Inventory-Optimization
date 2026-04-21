@@ -149,12 +149,17 @@ It highlights the importance of accurate demand forecasting, reliable supplier p
 
 
 ---
+
+## Future Work
+
+* Inventory Optimization Impact Analysis (SS, ROP, EOQ evaluation)
+* Stockout reduction simulation
+* Cost optimization modeling (holding vs ordering trade-offs)
+
+---
+
 ## Dashboard Preview
 
-![Dashboard Preview](./x.png)
+![Dashboard Preview](./supply-chain-dashboard.png)
 
 ---
-![Dashboard Preview](./y.png)
-
----
-![Dashboard Preview](./z.png)
