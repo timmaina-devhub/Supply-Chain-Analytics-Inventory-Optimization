@@ -160,6 +160,11 @@ It highlights the importance of accurate demand forecasting, reliable supplier p
 
 ## Dashboard Preview
 
-![Dashboard Preview](./supply-chain-dashboard.png)
+![Dashboard Preview](./supply_chain_dashboard.png)
+
+
+---
+
+![Dashboard Preview](./inventory_alert_dashboard.png)
 
 ---
