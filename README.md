@@ -168,3 +168,8 @@ It highlights the importance of accurate demand forecasting, reliable supplier p
 ![Dashboard Preview](./inventory_alert_dashboard.png)
 
 ---
+## Project API Repository
+
+* The API repository for this project is at: <a href='https://github.com/timmaina-devhub/inventory_optimization_app' target='_blank'>Inventory Optimization App</a>
+
+---
